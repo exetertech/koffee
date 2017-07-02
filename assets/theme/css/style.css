@@ -570,19 +570,19 @@ p.lead,
     width: 14px; }
 
 .alert-success {
-  background-color: #90a878;
+  background-color: #00ff00;
   color: #fff; }
 
 .alert-info {
-  background-color: #7e9b9f;
+  background-color: #00ff00;
   color: #fff; }
 
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #00ff00;
   color: #fff; }
 
 .alert-danger {
-  background-color: #f28281;
+  background-color: #00ff00;
   color: #fff; }
 
 /**
@@ -1623,7 +1623,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     position: relative; }
   .mbr-footer form .form-control {
     background: none;
-    border-color: rgba(245, 241, 230, 1);
+    border-color: rgba(189, 187, 183, 1);
     color: #d5b084;
     font-size: 0.875rem;
     min-height: 3.2em;
