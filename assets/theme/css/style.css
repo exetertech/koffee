@@ -1577,7 +1577,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 -------*/
 .mbr-footer {
-  color: #fff;
+  color: #d5b084;
   padding-left: 1.25rem;
   padding-right: 1.25rem; }
   @media (min-width: 1280px) {
@@ -1624,7 +1624,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-footer form .form-control {
     background: none;
     border-color: rgba(255, 255, 255, 0.2);
-    color: #fff;
+    color: #d5b084;
     font-size: 0.875rem;
     min-height: 3.2em;
     padding: 0.5em 1em 0.5em; }
