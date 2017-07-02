@@ -1612,7 +1612,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       text-decoration: none; }
   .mbr-footer .btn-black {
     background-color: #d5b084;
-    border-color: #242424; }
+    border-color: #d5b084; }
     .mbr-footer .btn-black.disabled, .mbr-footer .btn-black[disabled], .mbr-footer .btn-black:hover {
       background-color: #1a1a1a !important;
       border-color: #1a1a1a !important; }
@@ -1623,7 +1623,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     position: relative; }
   .mbr-footer form .form-control {
     background: none;
-    border-color: rgba(245, 241, 230, 0.2);
+    border-color: rgba(245, 241, 230, 1);
     color: #d5b084;
     font-size: 0.875rem;
     min-height: 3.2em;
@@ -1651,7 +1651,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0;
   padding: 0; }
 .mbr-footer-content li, .mbr-footer .mbr-contacts li {
-  border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+  border-bottom: 1px dotted rgba(245, 241, 230, 1);
   color: #d5b084;
   display: block;
   font-family: "Raleway";
@@ -1679,7 +1679,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     -moz-transition: color .3s ease;
     transition: color .3s ease; }
     .mbr-footer-content li a:hover, .mbr-footer .mbr-contacts li a:hover {
-      color: #c0a375; }
+      color: #d5b084; }
 
 .footer1 ul {
   margin-top: -13px; }
