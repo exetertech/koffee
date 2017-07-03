@@ -571,19 +571,19 @@ p.lead,
 
 .alert-success {
   background-color: #90a878;
-  color: #fff; }
+  color: #229622; }
 
 .alert-info {
   background-color: #7e9b9f;
-  color: #fff; }
+  color: #229622; }
 
 .alert-warning {
   background-color: #f3c649;
-  color: #fff; }
+  color: #229622; }
 
 .alert-danger {
   background-color: #f28281;
-  color: #fff; }
+  color: #229622; }
 
 /**
  * TYPOGRAPHY
@@ -1577,7 +1577,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 -------*/
 .mbr-footer {
-  color: #fff;
+  color: #d5b084;
   padding-left: 1.25rem;
   padding-right: 1.25rem; }
   @media (min-width: 1280px) {
@@ -1607,14 +1607,14 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       clear: none !important;
       padding-bottom: 0 !important; } }
   .mbr-footer p a, .mbr-footer ul a {
-    color: #c0a375; }
+    color: #d5b084; }
     .mbr-footer p a:hover, .mbr-footer ul a:hover {
       text-decoration: none; }
   .mbr-footer .btn-black {
-    background-color: #242424;
-    border-color: #242424; }
+    background-color: #d5b084;
+    border-color: #d5b084; }
     .mbr-footer .btn-black.disabled, .mbr-footer .btn-black[disabled], .mbr-footer .btn-black:hover {
-      background-color: #1a1a1a !important;
+      background-color: #d5b084 !important;
       border-color: #1a1a1a !important; }
   .mbr-footer .mbr-map {
     height: 18.75rem; }
@@ -1623,8 +1623,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     position: relative; }
   .mbr-footer form .form-control {
     background: none;
-    border-color: rgba(255, 255, 255, 0.2);
-    color: #fff;
+    border-color: rgba(189, 187, 183, 1);
+    color: #d5b084;
     font-size: 0.875rem;
     min-height: 3.2em;
     padding: 0.5em 1em 0.5em; }
@@ -1632,7 +1632,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-footer-content h1, .mbr-footer-content h2, .mbr-footer-content h3, .mbr-footer-content h4,
 .mbr-footer-content p strong, .mbr-footer-content strong, .mbr-footer .mbr-contacts h1, .mbr-footer .mbr-contacts h2, .mbr-footer .mbr-contacts h3, .mbr-footer .mbr-contacts h4,
 .mbr-footer .mbr-contacts p strong, .mbr-footer .mbr-contacts strong {
-  color: #7c7c7c;
+  color: #d5b084;
   font-family: "Montserrat";
   font-size: 1rem;
   font-weight: 700;
@@ -1642,7 +1642,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-footer-content p strong, .mbr-footer-content strong, .mbr-footer .mbr-contacts p strong, .mbr-footer .mbr-contacts strong {
   display: inline-block; }
 .mbr-footer-content p, .mbr-footer .mbr-contacts p {
-  color: #fff;
+  color: #d5b084;
   font-size: 0.875rem;
   margin-bottom: 0; }
 .mbr-footer-content ul, .mbr-footer .mbr-contacts ul {
@@ -1651,8 +1651,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0;
   padding: 0; }
 .mbr-footer-content li, .mbr-footer .mbr-contacts li {
-  border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
-  color: #bcbcbc;
+  border-bottom: 1px dotted rgba(245, 241, 230, 1);
+  color: #d5b084;
   display: block;
   font-family: "Raleway";
   font-size: 0.875rem;
@@ -1665,7 +1665,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-footer-content li:last-child, .mbr-footer .mbr-contacts li:last-child {
     border-bottom: 0; }
   .mbr-footer-content li::before, .mbr-footer .mbr-contacts li::before {
-    background: #c0a375;
+    background: #d5b084;
     content: "";
     height: 0.36em;
     left: 0;
@@ -1674,12 +1674,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     top: 50%;
     width: 0.36em; }
   .mbr-footer-content li a, .mbr-footer .mbr-contacts li a {
-    color: #fff;
+    color: #d5b084;
     -webkit-transition: color .3s ease;
     -moz-transition: color .3s ease;
     transition: color .3s ease; }
     .mbr-footer-content li a:hover, .mbr-footer .mbr-contacts li a:hover {
-      color: #c0a375; }
+      color: #d5b084; }
 
 .footer1 ul {
   margin-top: -13px; }
