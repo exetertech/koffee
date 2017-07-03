@@ -570,20 +570,20 @@ p.lead,
     width: 14px; }
 
 .alert-success {
-  background-color: #00ff00;
-  color: #fff; }
+  background-color: #90a878;
+  color: #229622; }
 
 .alert-info {
-  background-color: #00ff00;
-  color: #fff; }
+  background-color: #7e9b9f;
+  color: #229622; }
 
 .alert-warning {
-  background-color: #00ff00;
-  color: #fff; }
+  background-color: #f3c649;
+  color: #229622; }
 
 .alert-danger {
-  background-color: #00ff00;
-  color: #fff; }
+  background-color: #f28281;
+  color: #229622; }
 
 /**
  * TYPOGRAPHY
@@ -1607,14 +1607,14 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       clear: none !important;
       padding-bottom: 0 !important; } }
   .mbr-footer p a, .mbr-footer ul a {
-    color: #c0a375; }
+    color: #d5b084; }
     .mbr-footer p a:hover, .mbr-footer ul a:hover {
       text-decoration: none; }
   .mbr-footer .btn-black {
     background-color: #d5b084;
     border-color: #d5b084; }
     .mbr-footer .btn-black.disabled, .mbr-footer .btn-black[disabled], .mbr-footer .btn-black:hover {
-      background-color: #1a1a1a !important;
+      background-color: #d5b084 !important;
       border-color: #1a1a1a !important; }
   .mbr-footer .mbr-map {
     height: 18.75rem; }
